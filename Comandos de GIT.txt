@@ -1,0 +1,21 @@
+
+ create a new repository on the command line
+# crear un nuevo repositorio en la línea de comandos
+__________________________________________________________________
+
+echo "# PYTHON-Curso" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/charlyl5/PYTHON-Curso.git
+git push -u origin main
+__________________________________________________________________
+
+push an existing repository from the command line
+# enviar un repositorio existente desde la línea de comandos
+
+
+git remote add origin https://github.com/charlyl5/PYTHON-Curso.git
+git branch -M main
+git push -u origin main
