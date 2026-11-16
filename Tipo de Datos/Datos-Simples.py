@@ -9,8 +9,6 @@
         apellido:Moreno
 """
 
-
-
 '''
     tus datos son:
         nombre: Carlos
